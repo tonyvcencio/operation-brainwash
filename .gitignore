@@ -1,0 +1,18 @@
+# OpenWrt configuration backups
+*.tar.gz
+*.tar
+*.backup
+*.bak
+
+# Credentials and private keys
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+.env.*
+
+# Local and temporary files
+.DS_Store
+*.log
+*.tmp
